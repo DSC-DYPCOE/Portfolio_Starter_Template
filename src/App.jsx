@@ -1,12 +1,7 @@
 import React from "react";
-import Landing from "./components/Landing/Landing";
 
 const App = () => {
-  return (
-    <div>
-      <Landing />
-    </div>
-  );
+  return <div>Hello Everyone!</div>;
 };
 
 export default App;
